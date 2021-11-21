@@ -1,7 +1,7 @@
 # SSR
 (NeurIPS 2021) Pytorch implementation of paper "Re-ranking for image retrieval and transductivefew-shot classification"
 
-[[arXiv]()] [[Project webpage](http://imagine.enpc.fr/~shenx/SSR/)] [[Video]](http://imagine.enpc.fr/~shenx/SSR/ssr.mp4) [[Slide]](http://imagine.enpc.fr/~shenx/SSR/prez.pptx)
+[[Paper](https://papers.nips.cc/paper/2021/file/d9fc0cdb67638d50f411432d0d41d0ba-Paper.pdf)] [[Project webpage](http://imagine.enpc.fr/~shenx/SSR/)] [[Video]](http://imagine.enpc.fr/~shenx/SSR/ssr.mp4) [[Slide]](http://imagine.enpc.fr/~shenx/SSR/prez.pptx)
 
 <p align="center">
 <img src="https://github.com/XiSHEN0220/SSR/blob/main/fig/SSR_teaser.png" width="400px" alt="teaser">
